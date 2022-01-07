@@ -1,1 +1,1 @@
-# h8dsft_Probability
+Buatlah sebuah kode untuk mensimulasikan melempar koin sebanyak 50.000 kali dengan assign value random berupa 0 dan 1 untuk kepala atau ekor. Setiap kali koin dilempar, peluang untuk mendapatkan kepala atau ekor adalah 50%.
